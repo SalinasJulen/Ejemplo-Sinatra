@@ -1,1 +1,1 @@
-Este es mi primer programa creado mediante la gema Sinatra, simplemente tenemos 2 rutas (la de inicio y la de saludo) con la funcionalidad de sumar números y que nos devuelva el resultado en otra ruta.
+Este es mi primer programa creado mediante la gema sinatra, simplemente tenemos 2 rutas (la de inicio y la de saludo) con la funcionalidad de sumar números y que nos devuelva el resultado en otra ruta.
